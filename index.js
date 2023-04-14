@@ -1,2 +1,2 @@
-let newData = document.getElementById("newData").innerHTML
-newData = 89;
+
+document.querySelector("newData").innerText = 156
